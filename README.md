@@ -20,3 +20,7 @@ Specifically, the we hope to put together a collection of documents tha cover th
 - Once they have evolved enough, we (Gordon, Emma, Mason) will try to write up something in `mk` in a uniform way. These files will be stored in this repro.
 
 Once that is done we can decide how to publish them (readthedocs, web site, etc.).
+
+Examples:
+ - [Effective Field Theory Analysis](eft-madminer.md)
+ - [template fit](template-ft.md)
