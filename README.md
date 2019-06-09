@@ -1,5 +1,5 @@
-# as-user-facing
-Collecting information on the user-facing interface to the analysis system
+# User Stories 
+A collection of user stories to inform the user-facing interfaces to the analysis system(s)
 
 ## Introduction
 
@@ -22,5 +22,7 @@ Specifically, the we hope to put together a collection of documents tha cover th
 Once that is done we can decide how to publish them (readthedocs, web site, etc.).
 
 Examples:
+
+ - [Template Fit](template-fit.md)
+ - [Reinterpretation ](reinterpretation.md)
  - [Effective Field Theory Analysis](eft-madminer.md)
- - [template fit](template-ft.md)
