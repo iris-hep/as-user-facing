@@ -26,3 +26,4 @@ Examples:
  - [Template Fit](template-fit.md)
  - [Reinterpretation ](reinterpretation.md)
  - [Effective Field Theory Analysis](eft-madminer.md)
+ - [Development of an ML-based Jet Tagger](development-of-ml-jet-tagger.md)
