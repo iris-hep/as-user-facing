@@ -1,9 +1,20 @@
-# User Stories 
-A collection of user stories to inform the user-facing interfaces to the analysis system(s)
+# User-facing interfaces to analysis systems
 
-## Introduction
+## User Stories 
+Prior to defining interfaces, we are collecting user stories to inform the user-facing interfaces to the analysis system(s)
 
-The user can interact with an Analysis System from anywhere. This repro describes how this interaction will work. It is imagined that a number of different front-ends and back-ends will exist, optimized to user use cases and also data formats and machine architectures. The hope is an `api` can be declared generally enough to accomodate what we hope will be a rich eco-system.
+Examples:
+
+ - [Template Fit](template-fit.md)
+ - [Reinterpretation ](reinterpretation.md)
+ - [Effective Field Theory Analysis](eft-madminer.md)
+ - [Development of an ML-based Jet Tagger](development-of-ml-jet-tagger.md)
+ - [Trigger Study](trigger-study.md)
+ 
+
+## Next steps
+
+This repro describes how this interaction will work. It is imagined that a number of different front-ends and back-ends will exist, optimized to user use cases and also data formats and machine architectures. The hope is an `api` can be declared generally enough to accomodate what we hope will be a rich eco-system.
 
 Specifically, the we hope to put together a collection of documents tha cover the following
 
@@ -16,14 +27,8 @@ Specifically, the we hope to put together a collection of documents tha cover th
 
 ## Workflow
 
-- Start discussions as issues
+- Start discussions as issues or add a `.md` file
 - Once they have evolved enough, we (Gordon, Emma, Mason) will try to write up something in `mk` in a uniform way. These files will be stored in this repro.
 
 Once that is done we can decide how to publish them (readthedocs, web site, etc.).
 
-Examples:
-
- - [Template Fit](template-fit.md)
- - [Reinterpretation ](reinterpretation.md)
- - [Effective Field Theory Analysis](eft-madminer.md)
- - [Development of an ML-based Jet Tagger](development-of-ml-jet-tagger.md)
