@@ -17,4 +17,4 @@ As an analyser, I want to see which nuisance parameters contribute most to the u
 Reference: [Phys.Rev. D97 (2018) no.7, 072016
 ](https://doi.org/10.1103/PhysRevD.97.072016)
 
-![ranking plot](fit-diagnostics/ranking_plot.png "ranking plot")
+<img src="fit-diagnostics/ranking_plot.png" alt="ranking plot" width="300"/>
