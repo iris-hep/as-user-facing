@@ -17,7 +17,7 @@ This is done so I can understand what limits the precision of my measurement, an
 - If the pre-fit impact is not provided (for example for free-floating nuisance parameters), there is a way to exclude it from the visualization.
 
 ## Example implementation
-<img src="figures/ranking-plot.png" alt="ranking plot" width="300"/>
+<img src="figures/ranking-plot.png" alt="ranking plot" width="350"/>
 
 Reference: [Phys.Rev. D97 (2018) no.7, 072016](https://doi.org/10.1103/PhysRevD.97.072016)
 

@@ -11,7 +11,7 @@ As an analyzer, I want to see a breakdown of which nuisance parameters are prune
 - When the pruning depends on more than two degrees of freedom (e.g. the pruning decision depends on the nuisance parameter and sample and channel), then there are multiple possible ways implemented to visualize this. For this example, a visualization may be one matrix per channel, and then many matrices for many channels, or one matrix per sample, and many matrices for many samples.
 
 ## Example implementation
-<img src="figures/pruning-plot.png" alt="description" width="250"/>
+<img src="figures/pruning-plot.png" alt="description" width="350"/>
 
 Reference: Toy example built with TRExFitter
 

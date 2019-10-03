@@ -10,7 +10,7 @@ As a {type of user} I want {some goal} so that {some reason}.
 - List of acceptance criteria
 
 ## Example implementation
-<img src="figures/placeholder.png" alt="description" width="100"/>
+<img src="figures/pull-plot.png" alt="description" width="350"/>
 
 Reference: [source](link)
 
