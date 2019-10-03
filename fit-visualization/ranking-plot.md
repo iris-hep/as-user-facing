@@ -8,7 +8,7 @@ This is done so I can understand what limits the precision of my measurement, an
 - The evaluation of the impact of each nuisance parameter is defined.
 - The impact per nuisance parameter is calculated and provided in a well-defined format.
 - A way to rank nuisance parameters by impact is defined.
-- If the nuisance parameter _pulls_ are also shown, they are provided in a well-defined format (see also the section on [pull plots](pull-plot.md)).
+- If the nuisance parameter pulls are also shown, they are provided in a well-defined format (see also the section on [pull plots](pull-plot.md)).
 - For measurements with more than one parameter of interest, there is either a way to show the impact with respect to every parameter of interest, or a way to combine it into a single quantity for multiple parameters of interest.
 - The visualization of the pre-fit impact is agnostic to how this impact was evaluated, as it may have to be manually specified in cases where it is not well-defined (such as for free-floating nuisance parameters).
 

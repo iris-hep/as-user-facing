@@ -5,7 +5,7 @@ As an analyzer, I want to know how correlated parameters in my measurement are.
 This is done to inform the design of my measurement accordingly, and to help others who look at the measurement interpret it better.
 
 ### Assumptions
-- A list of parameters and their linear correlations are provided.
+- A list of parameters and their linear correlations are provided in a well-defined format.
 
 ### Acceptance criteria
 - A suitable diverging color map is used, in agreement with the study [Diverging Color Maps for Scientific Visualization](https://www.kennethmoreland.com/color-maps/).

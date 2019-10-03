@@ -6,6 +6,7 @@ As an analyzer, I want to see the effect of a nuisance parameter on the distribu
 ### Assumptions
 - Both the nominal distribution and distribution(s) obtained when varying the nuisance parameter are provided.
 - Additional distributions are provided when further processing, such as smoothing or symmetrization, is applied to the templates, in order to track the effect of the additional processing.
+- The relevant information is supplied in a well-defined format.
 
 ### Acceptance criteria
 - The visualization shows the original template before further processing steps are applied, and also the final template after additional processing steps in case it differs from the original.

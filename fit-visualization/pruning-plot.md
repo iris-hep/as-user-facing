@@ -4,7 +4,7 @@
 As an analyzer, I want to see a breakdown of which nuisance parameters are pruned, so that I can validate that the effects of the pruning procedure are reasonable.
 
 ### Assumptions
-- A pruning procedure is implemented and has been used, and the results from it are available.
+- A pruning procedure is implemented and has been used, and the results from it are supplied in a well-defined format.
 
 ### Acceptance criteria
 - The visualization shows all pruning decisions taken for the full fit model.
