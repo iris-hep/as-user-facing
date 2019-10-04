@@ -10,7 +10,7 @@ This lists various kinds of visualizations for template fits, some of which are 
 - [Pull plot](fit-visualization/pull-plot.md)
 - [Correlation matrix](fit-visualization/correlation-matrix.md)
 - [Exclusion limits](fit-visualization/exclusion-limits.md)
-- [Likelihood scan](fit-visualization/likelihood-scan.md)
+- [Likelihood scan and contours](fit-visualization/likelihood-scan-and-contours.md)
 - [Ranking plot](fit-visualization/ranking-plot.md)
 
 Template: [template file](fit-visualization/template.md)
