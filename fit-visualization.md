@@ -7,11 +7,11 @@ This lists various kinds of visualizations for template fits, some of which are 
 - [Pruning plot](fit-visualization/pruning-plot.md)
 - [Nuisance parameter effects](fit-visualization/nuisance-parameter-effects.md)
 ### Fit results
-- [Ranking plot](fit-visualization/ranking-plot.md)
-- [Correlation matrix](fit-visualization/correlation-matrix.md)
 - [Pull plot](fit-visualization/pull-plot.md)
-- [Likelihood scan](fit-visualization/likelihood-scan.md)
+- [Correlation matrix](fit-visualization/correlation-matrix.md)
 - [Exclusion limits](fit-visualization/exclusion-limits.md)
+- [Likelihood scan](fit-visualization/likelihood-scan.md)
+- [Ranking plot](fit-visualization/ranking-plot.md)
 
 Template: [template file](fit-visualization/template.md)
 

@@ -12,6 +12,7 @@ As an analyzer, I want to see an overview of the fit result for all nuisance par
 - The best-fit point and uncertainty is visualized for every nuisance parameter.
 - It is possible to group nuisance parameters together if optional metadata is supplied which provides grouping information.
 - A custom order can be specified for the nuisance parameters.
+- It is possible to overlay the results from multiple fits, in order to easily see their differences.
 
 ## Example implementation
 <img src="figures/pull-plot.png" alt="description" width="350"/>
