@@ -14,7 +14,9 @@ As an analyzer, I want to visualize a test statistic distribution around its min
 - Reference points (e.g. expected minima) can be visualized in distributions.
 
 ## Example implementation
-<img src="figures/likelihood-scan-and-contours-1D.png" alt="description" width="350"/>
+
+### As a function of a continuous parameter
+<img src="figures/likelihood-scan-and-contours-1D.png" alt="likelihood scan in one dimension" width="350"/>
 
 Reference: [CERN-EP-2019-097, submitted to Phys. Rev. D](https://inspirehep.net/record/1752936)
 
@@ -22,8 +24,8 @@ The distribution of -2 ln Λ, based on profile likelihood ratio Λ, is shown as 
 Multiple lines visualize the distribution when considering all or only some sources of uncertainty.
 The horizontal lines intersecting with the distributions visualize the 1σ and 2σ confidence intervals.
 
-
-<img src="figures/likelihood-scan-and-contours-2D.png" alt="description" width="350"/>
+### As a function of two continuous parameters
+<img src="figures/likelihood-scan-and-contours-2D.png" alt="likelihood contours in two dimensions" width="350"/>
 
 Reference: [CERN-EP-2019-097, submitted to Phys. Rev. D](https://inspirehep.net/record/1752936)
 

@@ -13,7 +13,7 @@ As an analyzer, I want to see the effect of a nuisance parameter on the distribu
 - Statistical uncertainties for all distributions are drawn.
 
 ## Example implementation
-<img src="figures/nuisance-parameter-effects.png" alt="description" width="350"/>
+<img src="figures/nuisance-parameter-effects.png" alt="distribution of nominal distribution and templates showing effect of systematic variations" width="350"/>
 
 Reference: Toy example built with TRExFitter
 

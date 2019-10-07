@@ -15,7 +15,7 @@ As an analyzer, I want to see an overview of the fit result for all nuisance par
 - It is possible to overlay the results from multiple fits, in order to easily see their differences.
 
 ## Example implementation
-<img src="figures/pull-plot.png" alt="description" width="350"/>
+<img src="figures/pull-plot.png" alt="pull plot" width="350"/>
 
 Reference: Toy example built with TRExFitter
 
