@@ -32,3 +32,7 @@ The analysis strategy is the following: Get the 4mu and 2mu2e final states from 
 See blog post: http://cylindricalonion.web.cern.ch/blog/201906/finding-higgs-boson-within-minutes-cloud
 
 The code: https://github.com/lukasheinrich/higgs-demo 
+
+## Notice:
+
+We are looking for someone to translate this analysis example into coffea. Please leave an issue or contact IRIS-HEP analysis systems group if you are interested.
