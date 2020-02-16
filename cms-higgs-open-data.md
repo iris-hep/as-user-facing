@@ -26,3 +26,9 @@ The provided analysis code recodes the spirit of the original analysis and recod
 
 The analysis strategy is the following: Get the 4mu and 2mu2e final states from the DoubleMuParked datasets and the 4e final state from the DoubleElectron dataset. This avoids double counting due to trigger overlaps. All MC contributions except top use data-driven normalization: The DY (Z/gamma^*) contribution is scaled to the Z peak. The ZZ contribution is scaled to describe the data in the independent mass range 180-600 GeV. The Higgs contribution is scaled to describe the data in the signal region. The (very small) top contribution remains scaled to the MC generator cross section.
 
+
+## The demo running on cloud-native infrastructure
+
+See blog post: http://cylindricalonion.web.cern.ch/blog/201906/finding-higgs-boson-within-minutes-cloud
+
+The code: https://github.com/lukasheinrich/higgs-demo 
