@@ -19,9 +19,22 @@ Note: *Running the analysis code on the pre-processed datasets takes several hou
 
 
 
-## $Z\to e^+ e^-$ with func_adl 
+# Other implementations
+
+## with func_adl 
 
 This is not on the same data as the CMS OpenData Example, but same analysis use case
 https://github.com/gordonwatts/func_adl_electrons/blob/master/ElectronData.ipynb
 
 ![](z-ee-peak.png)
+
+
+## Other
+
+ * Coffea(awkward)+Service X (single-threaded from a single file with uproot: zpeak.ipynb, talk at HOW2019)
+
+ * TSelector (exists and one-to-one with awkward capabilities: ZPeak.h, ZPeak.C)
+
+ * RDataFrame (this one is more basic than the awkward and TSelector based ones, not a one-to-one comparison)
+
+ * ATLAS Run3 EventLoop style (possible)
