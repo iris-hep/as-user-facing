@@ -23,3 +23,5 @@ Note: *Running the analysis code on the pre-processed datasets takes several hou
 
 This is not on the same data as the CMS OpenData Example, but same analysis use case
 https://github.com/gordonwatts/func_adl_electrons/blob/master/ElectronData.ipynb
+
+![](z-ee-peak.png)
